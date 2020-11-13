@@ -6,7 +6,7 @@ Fall 2020
 <br />
 <p align="center">
   <a href="https://github.com/UNCG-DAISY/Green_Hackathon-Fall2020">
-    <img src="images/header.png" alt="Logo" width="600" height="480">
+    <img src="images/header.png" alt="Logo" width="800" height="600">
   </a>
 
 </p>
