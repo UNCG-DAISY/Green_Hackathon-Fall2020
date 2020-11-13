@@ -1,15 +1,13 @@
-# Green_Hackathon-Fall2020
-Hackathon Repository
+# Green Fund Hack-A-Thon
+Fall 2020
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/UNCG-DAISY/Green_Hackathon-Fall2020">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/header.png" alt="Logo" width="600" height="480">
   </a>
-
-  <h1 align="center">Green_Hackathon-Fall2020</h1>
 
 </p>
 
